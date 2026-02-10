@@ -14,8 +14,6 @@ Enugu State Water Corporation (“the Corporation”, “we”, “our”, or �
 - Residential and billing address  
 - Phone number  
 - Email address  
-- Customer account number  
-- National Identification Number (NIN) or other government-issued ID (where required)
 
 ### b. Service-Related Information
 - Water usage and meter readings  
